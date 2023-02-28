@@ -4,217 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d6e803-20ff-4b57-b844-9a7cff01327f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Python. Start/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/.idea/Python. Start.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/.idea/externalDependencies.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/course-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/course-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Арифметические операции/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Арифметические операции/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Арифметические операции/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Арифметические операции/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Арифметические операции/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Ввод и вывод данных/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Ввод и вывод данных/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Ввод и вывод данных/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Ввод и вывод данных/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Ввод и вывод данных/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.1/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.1/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.1/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.1/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.1/tests/test_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.2/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.2/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.2/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.2/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.2/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.2/tests/test_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/tests/test_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Комментарии/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Комментарии/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Комментарии/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Комментарии/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Комментарии/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Первая программа/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Первая программа/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Первая программа/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Первая программа/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Первая программа/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Переменные/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Переменные/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Переменные/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Переменные/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Переменные/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Типы данных/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Типы данных/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Типы данных/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Типы данных/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Типы данных/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Условные операторы/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Условные операторы/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Условные операторы/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Условные операторы/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Условные операторы/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Цикл While/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Цикл While/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Цикл While/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Цикл While/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Цикл While/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.1/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.1/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.1/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.1/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.1/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.1/tests/test_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.2/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.2/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.2/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.2/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.2/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.2/tests/test_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.3/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.3/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.3/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.3/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.3/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.3/tests/test_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.4/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.4/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.4/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.4/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.4/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Задание 2.4/tests/test_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Кортежи/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Кортежи/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Кортежи/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Кортежи/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Кортежи/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Множества/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Множества/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Множества/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Множества/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Множества/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Словари/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Словари/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Словари/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Словари/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Словари/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Списки/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Списки/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Списки/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Списки/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Списки/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Срезы. Методы/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Срезы. Методы/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Срезы. Методы/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Срезы. Методы/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Срезы. Методы/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Строки/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Строки/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Строки/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Строки/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Строки/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Форматирование строк/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Форматирование строк/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Форматирование строк/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Форматирование строк/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Форматирование строк/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Цикл for/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Цикл for/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Цикл for/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Цикл for/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 2. Основы/Цикл for/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/lambda - функции/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/lambda - функции/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/lambda - функции/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/lambda - функции/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/lambda - функции/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/lesson-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/lesson-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.1/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.1/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.1/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.1/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.1/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.1/tests/test_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.2/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.2/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.2/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.2/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.2/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.2/tests/test_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.3/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.3/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.3/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.3/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.3/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.3/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Задание 3.3/tests/test_task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Модули os и sys/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Модули os и sys/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Модули os и sys/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Модули os и sys/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Модули os и sys/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Модули/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Модули/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Модули/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Модули/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Модули/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Область видимости функции/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Область видимости функции/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Область видимости функции/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Область видимости функции/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Область видимости функции/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Работа с файлами/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Работа с файлами/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Работа с файлами/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Работа с файлами/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Работа с файлами/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Работа с файлами/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Работа с файлами/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Собственные модули/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Собственные модули/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Собственные модули/myfolder/newmodule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Собственные модули/mymodule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Собственные модули/script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Собственные модули/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Собственные модули/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Собственные модули/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Функции/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Функции/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Функции/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Функции/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Функции/task.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Функция как объект/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Функция как объект/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Функция как объект/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Функция как объект/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 3. Дополнения/Функция как объект/task.md" afterDir="false" />
+    <list default="true" id="01d6e803-20ff-4b57-b844-9a7cff01327f" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/../Python. Start/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python. Start/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/tests/test_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python. Start/Эпизод 1. Введение/Задание 1.3/tests/test_task.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,14 +28,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ilyap/OneDrive/Desktop/Homework-Python-Start-master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Edu.Yaml.Migrate": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ilyap/OneDrive/Desktop/Homework-Python-Start-master",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -250,6 +46,29 @@
       <option name="presentableId" value="Default" />
       <updated>1677569341107</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1677575785638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677575785638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
