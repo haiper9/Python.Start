@@ -30,6 +30,8 @@ def task_3(cities):
 
 
 def task_4(a, b):
+    a_rev=list(reversed(a))
+    b_rev=list(reversed(b))
+    result=[value for value in a if value in b]
     return [8, 6, 7]
-    return [value for value in a if value in b]
-    return
+    return result
